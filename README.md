@@ -1,6 +1,5 @@
-### Hi there 👋 I'm Keaunna, a ux researcher, developer, and tech enthusiast. Here's what I've been working on: 
-
-Here are some ideas to get you started:
+### Hi there! 👋 👋 
+I'm Keaunna, a ux researcher, developer, and tech enthusiast. Here's what I've been working on: 
 
 - 🔭 I’m currently working on ... utilities in Python to support my master's thesis on reactions to deep fake technology on social media. 
 - 🌱 I’m currently learning ... sentiment analysis in Python with NLTK. 
