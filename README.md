@@ -1,7 +1,7 @@
 ### Hi there! 👋 👋 
 I'm Keaunna, a ux researcher, developer, and tech enthusiast. Here's what I've been working on: 
 
-- 🔭 I’m currently working on ... utilities in Python to support my master's thesis on reactions to deep fake technology on social media. 
+- 🔭 I’m currently working on ... utilities in Python to support my master's thesis on reactions to deepfake tech online.
 - 🌱 I’m currently learning ... sentiment analysis in Python with NLTK. 
 - 👯 I’m looking to collaborate on ... building tools and utilities to make resaerch easier for new researchers. 
 - 🤔 I’m looking for help with ... machine learning algorithms. 
