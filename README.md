@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working ... utilities in Python to support my master's thesis on reactions to deep fake technology on social media. 
+- 🔭 I’m currently working on ... utilities in Python to support my master's thesis on reactions to deep fake technology on social media. 
 - 🌱 I’m currently learning ... sentiment analysis in Python with NLTK. 
 - 👯 I’m looking to collaborate on ... building tools and utilities to make resaerch easier for new researchers. 
 - 🤔 I’m looking for help with ... machine learning algorithms. 
