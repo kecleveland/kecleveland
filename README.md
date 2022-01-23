@@ -1,6 +1,6 @@
 ### Hi there! 👋 👋 
 
-I'm Keaunna, a ux researcher and tech enthusiast on a mission to use my 10+ years experience in research, software engineering, and non-profit education and service to create inclusive, meaningful, and fun interactions for all.
+I'm Keaunna, a ux researcher and tech enthusiast on a mission to use my 10+ years experience in research, software engineering, and non-profit education to create inclusive, meaningful, and fun interactions for all.
 
 - 🔭 I’m currently working on utilities in Python to support my master's thesis on reactions to deepfake tech online.
 - 🌱 I’m currently learning sentiment analysis in Python with NLTK. 
