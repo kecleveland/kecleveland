@@ -9,6 +9,3 @@ I'm Keaunna, a Senior UX Researcher on a mission to use my 10+ years experience 
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/keaunnacleveland/)
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I love building small games and experimenting with Unity 3D and Unreal engine.
-
-Check out some of my projects and work!
-
