@@ -1,6 +1,6 @@
 ### Hi there! 👋 👋 
 
-I'm Keaunna, a Senior UX Researcher on a mission to use my 10+ years experience in research, software engineering, and non-profit education to create inclusive, meaningful, and fun interactions for all.
+I'm Keaunna, a Senior UX Researcher on a mission to use my experience in research, software engineering, and non-profit education to create inclusive, meaningful, and fun interactions for all.
 
 - 🔭 I lead user research initatives and build apps that support business processes and functions. 
 - 🌱 I’m currently interested in understanding how to make research operations easier for individual researchers and small teams.
